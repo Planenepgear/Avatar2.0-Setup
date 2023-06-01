@@ -115,7 +115,6 @@
 -define:USE_INPUT_SYSTEM_POSE_CONTROL
 -define:USING_XR_MANAGEMENT
 -define:USING_XR_SDK_OCULUS
--define:USING_XR_SDK_OPENXR
 -define:USING_COMPATIBLE_OCULUS_XR_PLUGIN_VERSION
 -define:USING_URP
 -define:PRIORITIZE_OCULUS_XR_SETTINGS
@@ -352,8 +351,6 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.XR.Management.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.XR.Management.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.XR.Oculus.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.XR.OpenXR.Editor.ref.dll"
--r:"Library/Bee/artifacts/1900b0aE.dag/Unity.XR.OpenXR.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"

@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Setup-1.unity
+- path: Packages/com.meta.movement/Samples/Scenes/MovementAura.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

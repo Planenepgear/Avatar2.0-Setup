@@ -8,6 +8,21 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Setup-1.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Packages/com.meta.movement/Samples/Scenes/MovementAura.unity
+    guid: cc4479801f152ae429eb674705ae15a3
+  - enabled: 1
+    path: Packages/com.meta.movement/Samples/Scenes/MovementBlendshapeMappingExample.unity
+    guid: bda49cb29bd333b418d2626b4a07f288
+  - enabled: 1
+    path: Packages/com.meta.movement/Samples/Scenes/MovementHighFidelity.unity
+    guid: 95d70f1c0a626c449881b1b4260b6b9d
+  - enabled: 1
+    path: Packages/com.meta.movement/Samples/Scenes/MovementHipPinning.unity
+    guid: c5846fe596ba70848af39ac75c189ca4
+  - enabled: 1
+    path: Packages/com.meta.movement/Samples/Scenes/MovementRetargeting.unity
+    guid: fc2df0dac4e954244b6cd75ecbed5530
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 905bc1421905f9849bb263f970cc2ffa,
       type: 2}
