@@ -362,6 +362,8 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Oculus.VR.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Oculus.VR.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Oculus.VR.Scripts.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Polyperfect.Common.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Polyperfect.People.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/PPv2URPConverters.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Animation.Rigging.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.Animation.Rigging.ref.dll"
@@ -541,6 +543,7 @@
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiSceneMenu.cs"
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs"
 "Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs"
+"Assets/polyperfect/Low Poly Animated People/- Materials/Simple Water/SimpleWater.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
