@@ -544,6 +544,7 @@
 "Assets/Oculus/SampleFramework/Usage/TouchPro/Scripts/Ui/UiVectorInspector.cs"
 "Assets/Oculus/Voice/Lib/Wit.ai/AssemblyInfo.cs"
 "Assets/polyperfect/Low Poly Animated People/- Materials/Simple Water/SimpleWater.cs"
+"Assets/Scripts/Avatar 2.0 Scripts/SmoothFollowCamera.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 

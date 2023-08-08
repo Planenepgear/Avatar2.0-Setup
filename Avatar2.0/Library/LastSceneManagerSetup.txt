@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Setup-2 Sit3.5.unity
+- path: Assets/Scenes/Setup-2 Sit3.6(Face Tracking Reset).unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
